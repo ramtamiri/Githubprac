@@ -4,4 +4,7 @@ x=1+2
 
 x=2-1
 
+# Multiplication
+
+x=2*2
 
