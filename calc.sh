@@ -6,3 +6,7 @@ x=2-1
 
 # Merge Example
 
+
+# Multiplication
+
+x=2*2
